@@ -23,15 +23,15 @@
 
 - 🤝 I’m looking for help with **Scaling APIs & Performance Optimization in React Apps**
 
-- 👨‍💻 All of my projects are available at [##](##)
+- 👨‍💻 All of my projects are available at [Under_progress](##)
 
-- 📝 I regularly write articles on [##](##)
+- 📝 I regularly write articles on [Medium](https://medium.com/@chvishnuvardhan.vvr)
 
 - 💬 Ask me about **C#, Python, Java, MongoDB**
 
 - 📫 How to reach me **chvishnuvardhan.vvr@gmail.com**
 
-- 📄 Know about my experiences [##](##)
+- 📄 Know about my experiences [Click Here !](assets/resume.pdf)
 
 - ⚡ Fun fact **I care about clean UI as much as clean code.**
 
