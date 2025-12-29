@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **chvishnuvardhan.vvr@gmail.com**
 
-- 📄 Know about my experiences [Click Here !](assets/resume.pdf)
+- 📄 Know about my experiences [Click Here !](vishnuch_vvr.pdf)
 
 - ⚡ Fun fact **I care about clean UI as much as clean code.**
 
